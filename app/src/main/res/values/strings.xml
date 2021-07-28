@@ -1,3 +1,29 @@
 <resources>
-    <string name="app_name">bored</string>
+    <string name="app_name">Bored</string>
+    <string-array name="type">
+        <item>education</item>
+        <item>recreational</item>
+        <item>social</item>
+        <item>diy</item>
+        <item>charity</item>
+        <item>Cooking</item>
+        <item>relaxation</item>
+        <item>music</item>
+        <item>busywork</item>
+    </string-array>
+
+    <string name="text1">Search an activity</string>
+    <string name="text2">Choose an activity type</string>
+    <string name="text3">Number of participants</string>
+    <string name="text4">Search</string>
+    <string name="text5">Search Results</string>
+    <string name="text6">Activity : </string>
+    <string name="text7">Type : </string>
+    <string name="text8">Price : </string>
+    <string name="text9">Participants : </string>
+    <string name="text10">Accessibility : </string>
+
+
+
+
 </resources>
